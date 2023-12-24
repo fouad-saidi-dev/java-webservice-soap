@@ -1,4 +1,4 @@
-<h4 style="text-align : center">Les pratiques réalisées dans le cadre de WEBSERVICE SOAP WSDL UDDI</h4>
+<h4>Les pratiques réalisées dans le cadre de WEBSERVICE SOAP WSDL UDDI</h4>
 
 <img src="captures/dp.png">
 <hr/>
